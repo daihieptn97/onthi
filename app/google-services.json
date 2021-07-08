@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926854158698",
+    "project_id": "onthi-5ee0f",
+    "storage_bucket": "onthi-5ee0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926854158698:android:6d43839f009c30bac22d13",
+        "android_client_info": {
+          "package_name": "com.hieptran.onthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926854158698-4p435lge59628dvccahblimhs31el3f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVw4hZf480Yfmkg3Z0RL_CvYvbJ-iQqC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926854158698-4p435lge59628dvccahblimhs31el3f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
